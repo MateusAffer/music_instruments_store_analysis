@@ -3,8 +3,8 @@
 O objetivo deste projeto é analisar os dados de instrumentos musicais extraídos de três diferentes sites. A parte 01 foca apenas na parte de Web Scraping e a parte 02 na análise exploratória e clusterização. 
 
 Caso prefira ver os códigos na versão de artigo do Medium:
-- <a href="https://mateus-affer.medium.com/web-scraping-em-lojas-de-instrumentos-musicais-com-python-67fd9036da11">Web Scraping em lojas de instrumentos musicais com Python</a>
-- <a href="https://mateus-affer.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-lojas-de-instrumentos-musicais-com-python-781d3ec944e8">Análise exploratória de lojas de instrumentos musicais com Python</a>
+- <a href="https://mateus-affer.medium.com/web-scraping-em-lojas-de-instrumentos-musicais-com-python-67fd9036da11" target="_blank">Web Scraping em lojas de instrumentos musicais com Python</a>
+- <a href="https://mateus-affer.medium.com/an%C3%A1lise-explorat%C3%B3ria-de-lojas-de-instrumentos-musicais-com-python-781d3ec944e8" target="_blank">Análise exploratória de lojas de instrumentos musicais com Python</a>
 
 Este é o meu primeiro em Python, dúvidas e sugestões são super bem vindas! 
 
